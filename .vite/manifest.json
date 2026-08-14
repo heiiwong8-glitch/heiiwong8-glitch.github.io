@@ -11,7 +11,7 @@
     "name": "rolldown-runtime"
   },
   "app/RadarDashboard.tsx": {
-    "file": "assets/RadarDashboard-Crm6U8gY.js",
+    "file": "assets/RadarDashboard-Bze4EpDZ.js",
     "name": "RadarDashboard",
     "src": "app/RadarDashboard.tsx",
     "isDynamicEntry": true,
@@ -21,7 +21,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "assets/layout-segment-context-BJZ9wuN4.js",
+    "file": "assets/layout-segment-context-B5JwdPnw.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -32,7 +32,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "assets/index-BDETIiI0.js",
+    "file": "assets/index-BZXsGhjV.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
