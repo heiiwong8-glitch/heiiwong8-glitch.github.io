@@ -1,13 +1,13 @@
 {
   "schemaVersion": "hitsong-publication-status-v1",
-  "status": "pending",
+  "status": "verified",
   "dataDate": "2026-08-16",
-  "publishedAt": null,
-  "verifiedAt": null,
+  "publishedAt": "2026-08-16T16:38:58+08:00",
+  "verifiedAt": "2026-08-16T16:38:58+08:00",
   "url": "https://heiiwong8-glitch.github.io/",
   "provider": "github_pages",
-  "publicationEventId": null,
-  "commitSha": null,
-  "manifestRevision": 9,
-  "generatedAt": "2026-08-16T16:38:29+08:00"
+  "publicationEventId": "pub-0010",
+  "commitSha": "de0965ea72ef9d6db243b368ec0b6073b153a5f3",
+  "manifestRevision": 10,
+  "generatedAt": "2026-08-16T16:38:58+08:00"
 }
