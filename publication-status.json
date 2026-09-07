@@ -1,16 +1,16 @@
 {
-  "schemaVersion": "hitsong-publication-status-v2",
+  "schemaVersion": "hitsong-publication-status-v3",
   "status": "verified",
-  "phase": "verified",
-  "snapshotId": "b6c8e6d19a0a4865284b",
-  "dataDate": "2026-08-26",
-  "publishedAt": "2026-08-28T22:29:36+08:00",
-  "verifiedAt": "2026-08-28T22:29:36+08:00",
+  "phase": "atomic_release",
+  "dataDate": "2026-09-07",
+  "snapshotId": "8dc1e8282b5a1745b009",
+  "sourceSetId": "f70cee5f866f2ba2956e064f6bde00a1bc9464a1485a6fb0a9d8add241526feb",
+  "releaseId": "release-7f83ef91f53ad0d06695ddca",
+  "artifactHash": "eedbd3d83c52cfcd645901919b5979b60e1b3ad236367611f67a6d29e86e01ff",
+  "publicationEventId": "pub-0057",
+  "publishedAt": "2026-09-07T18:29:53+08:00",
+  "verifiedAt": "2026-09-07T18:29:53+08:00",
   "url": "https://heiiwong8-glitch.github.io/",
   "provider": "github_pages",
-  "publicationEventId": "pub-0056",
-  "contentCommitSha": "a5e876f6fea26f6183c9322c414c14d6bd1d2833",
-  "commitSha": "a5e876f6fea26f6183c9322c414c14d6bd1d2833",
-  "manifestRevision": 56,
-  "generatedAt": "2026-08-28T22:29:37+08:00"
+  "generatedAt": "2026-09-07T18:29:53+08:00"
 }
